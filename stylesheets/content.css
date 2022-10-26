@@ -551,31 +551,31 @@ body, html
   color: #000000;
 }
 #Light {
-  font-family: KazimirLight;
+  font-family: 'KazimirLight';
 }
 #LightItalic {
-  font-family: KazimirLightItalic;
+  font-family: 'KazimirLightItalic';
 }
 #Regular {
-  font-family: KazimirRegular;
+  font-family: 'KazimirRegular';
 }
 #RegularItalic {
-  font-family: KazimirItalic;
+  font-family: 'KazimirItalic';
 }
 #Medium {
-  font-family: KazimirMedium;
+  font-family: 'KazimirMedium';
 }
 #MediumItalic {
-  font-family: KazimirMediumItalic;
+  font-family: 'KazimirMediumItalic';
 }
 #BoldItalic {
-  font-family: KazimirBoldItalic;
+  font-family: 'KazimirBoldItalic';
 }
 #Black {
-  font-family: KazimirBlack;
+  font-family: 'KazimirBlack';
 }
 #BlackItalic {
-  font-family: KazimirBlackItalic;
+  font-family: 'KazimirBlackItalic';
 }
 
 .performing {

@@ -553,9 +553,11 @@ body, html
 #Light {
   font-family: 'KazimirLight';
 }
+
 #LightItalic {
   font-family: 'KazimirLightItalic';
 }
+
 #Regular {
   font-family: 'KazimirRegular';
 }

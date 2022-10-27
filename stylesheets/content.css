@@ -621,19 +621,19 @@ body, html
   color: #EE2914;
 }
 .circus_show {
-margin-left: 629px;
-margin-top: -62px;
+  margin-left: 629px;
+  margin-top: -62px;
 
-font-family: 'KazimirMediumItalic';
-font-style: italic;
-font-weight: 400;
-font-size: 100px;
-line-height: 130px;
+  font-family: 'KazimirMediumItalic';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 100px;
+  line-height: 130px;
 
-display: flex;
-align-items: center;
+  display: flex;
+  align-items: center;
 
-color: #000000;
+  color: #000000;
 
 }
 .since {

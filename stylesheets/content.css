@@ -570,6 +570,9 @@ body, html
 #MediumItalic {
   font-family: 'KazimirMediumItalic';
 }
+#Bold {
+  font-family: 'KazimirBold'
+}
 #BoldItalic {
   font-family: 'KazimirBoldItalic';
 }
